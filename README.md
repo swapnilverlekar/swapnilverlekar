@@ -25,7 +25,8 @@
 <img align="left" width="30px" style="padding-right:10px;" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<br>
+
+<br/>
 ***
           
           

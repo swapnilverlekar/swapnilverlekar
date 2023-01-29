@@ -6,7 +6,7 @@
 - 👀 I’m interested in Software Development.
 - 💞️ I’m looking to collaborate on Software Development Projects.
 - 💻 Checkout my website https://www.swapnilverlekar.github.io
-- 📫 How to reach me on LinkedIn https://www.linkedin.com/in/swapnilverlekar
+- 📫 Connect with me over LinkedIn https://www.linkedin.com/in/swapnilverlekar
 - 📨 Mail me at swapnilverlekar24@gmail.com
 
 ****

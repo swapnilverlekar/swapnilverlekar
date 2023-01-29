@@ -2,12 +2,14 @@
 
 
 ```Master of Science in Computer Science student at Rutgers University```
-- 👋 Hi, I’m Swapnil Verlekar
+- 👋 Hey There!!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently pursuing Master of Science in Computer Science at Rutgers University.
 - 💞️ I’m looking to collaborate on Software Development Projects.
+- 💻 Checkout my website https://www.swapnilverlekar.github.io
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/swapnilverlekar
 - 📨 Mail me at swapnilverlekar24@gmail.com
+
+****
 
 ### 🧰 Languages and Tools 
 
@@ -26,8 +28,9 @@
 <img align="left" width="30px" style="padding-right:10px;" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-<br />
-***
+<br>
+
+****
           
           
           

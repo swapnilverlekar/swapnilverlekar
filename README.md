@@ -1,3 +1,5 @@
+# Swapnil Verlekar
+
 - 👋 Hi, I’m Swapnil Verlekar
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently pursuing Master of Science in Computer Science at Rutgers University.

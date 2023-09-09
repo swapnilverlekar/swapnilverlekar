@@ -2,7 +2,7 @@
 
 
 ```Master of Science in Computer Science student at Rutgers University```
-
+```Software Development Intern at Somos, Inc.```
 ```CS Grad``` ```Software Developer``` ```Teaching Assistant```
 - 👋 Hey There!!
 - 👀 I’m interested in Software Development.

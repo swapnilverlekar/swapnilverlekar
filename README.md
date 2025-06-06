@@ -1,12 +1,12 @@
 # Swapnil Verlekar
 
 
+```Senior AI and Software Engineering Consultant at EY```
 ```Master of Science in Computer Science student at Rutgers University```
-```Software Development Intern at Somos, Inc.``` 
-```Software Developer``` ```Teaching Assistant```
+```Software Developer``` ```AI Engineer``` ```Teaching Assistant```
 - 👋 Hey There!!
-- 👀 I’m interested in Software Development.
-- 💞️ I’m looking to collaborate on Software Development Projects.
+- 👀 I’m interested in Software Development and building AI systems.
+- 💞️ I’m looking to collaborate on Development Projects.
 - 💻 Checkout my website [https://www.swapnilverlekar.github.io](https://swapnilverlekar.github.io/)
 - 📫 Connect with me over LinkedIn https://www.linkedin.com/in/swapnilverlekar
 - 📨 Mail me at swapnilverlekar24@gmail.com
